@@ -1,0 +1,7 @@
+opencv-python>=4.10
+ultralytics>=8.2         # YOLOv8
+numpy>=1.26
+deep-sort-realtime>=1.3  # tracking (DeepSORT)
+requests>=2.32
+boto3>=1.34               # acceso a S3 (clips guardados como evidencia)
+python-dotenv>=1.0
